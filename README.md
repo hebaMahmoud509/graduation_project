@@ -74,3 +74,18 @@ This project is an AI-powered system designed to detect diabetes complications, 
 4. Update JWT secret in your authentication process.
 5. Run the Node.js server using `node server.js`.
 6. Run the Flask application using `python app.py`.
+
+## Docker Image
+
+You can access the Docker image for this project on Docker Hub. To pull the latest version, use the following command:
+
+```bash
+docker pull hheebbaamahmoud/grad-project:latest
+
+
+
+
+
+
+
+
